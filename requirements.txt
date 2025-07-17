@@ -1,0 +1,6 @@
+scikit-learn
+optuna
+carbontracker
+pynvml
+jupyter
+polars
