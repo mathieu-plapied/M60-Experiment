@@ -1,3 +1,7 @@
+# Data folder
+
+data/*
+
 # General
 .DS_Store
 .AppleDouble
